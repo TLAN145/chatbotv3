@@ -46,13 +46,7 @@ The chatbot saves and uses past conversations for better responses:
   - **Bot**: I'd be happy to help with your programming-related questions. What type of programming are you working on (e.g., web development, mobile app development, machine learning, etc.) and what specific issue or task do you need assistance with?
  
   - **You**: Tell me about Article 1 of Constitution of Kazakhstan
-  - **Bot(llama3.2:1b)**: The Article 1 of the Constitution of Kazakhstan reads:
-
-"Kazakhstan is an independent, democratic state which is a sovereign nation-state. The fundamental right and duty of every citizen of Kazakhstan are to respect and defend this State, its territorial integrity and sovereignty."
-
-This article sets out the basic principles and goals of the state in Kazakhstan, emphasizing its independence, democracy, and sovereignty. It also recognizes the rights and duties of citizens, including their responsibility to respect and defend the state.
-
-In essence, Article 1 of the Constitution of Kazakhstan establishes that Kazakhstan is a sovereign nation-state with democratic values and principles at its core.
+  - **Bot(llama3.2:1b)**: The Article 1 of the Constitution of Kazakhstan reads: "Kazakhstan is an independent, democratic state which is a sovereign nation-state. The fundamental right and duty of every citizen of Kazakhstan are to respect and defend this State, its territorial integrity and sovereignty." This article sets out the basic principles and goals of the state in Kazakhstan, emphasizing its independence, democracy, and sovereignty. It also recognizes the rights and duties of citizens, including their responsibility to respect and defend the state. In essence, Article 1 of the Constitution of Kazakhstan establishes that Kazakhstan is a sovereign nation-state with democratic values and principles at its core.
 
 ## Installation Guide
 
